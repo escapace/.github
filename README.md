@@ -1,6 +1,6 @@
-# Escapace Community Health Files
+# escapace Community Health Files
 
-Centralized documents and information for the Escapace organization and projects.
+Documents and information for the escapace organization and projects.
 
 ## Code Of Conduct
 
