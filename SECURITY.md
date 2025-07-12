@@ -1,4 +1,4 @@
-escapace takes the security of our software products and services and believes that responsible
+escapace takes the security of our software products and services seriously and believes that responsible
 disclosure of security vulnerabilities helps us ensure the security and privacy of all our users.
 
 ## Reporting Security Issues
